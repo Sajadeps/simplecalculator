@@ -10,5 +10,5 @@ function calcDelete(){
     result.value = result.value.slice(0,-1);
 }
 function calcOutput(){
-   result.value =eval(result.value)//eval is used in js for evaluation of the string
+   result.value =eval(result.value)
 }
